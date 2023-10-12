@@ -9,10 +9,10 @@ function App() {
 
   return (
     <>
-      {/* <DaisyNav></DaisyNav>
-      <Percent></Percent> */}
       <NavBar></NavBar>
       <h1 className='text-7xl bg-rose-600'>Vite + React</h1>
+      <DaisyNav></DaisyNav>
+      <Percent></Percent>
 
     </>
   )
